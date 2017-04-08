@@ -1,8 +1,45 @@
 ---
 layout: default
-title: Adam Cobb
+title: Home
 ---
-<div class="blurb">
-	<h1>Demo Website</h1>
-	<p>I am working on building my own website. <em>(Currently not very good)</em> <a href="/about">My about page</a></p>
-</div><!-- /.blurb -->
+<center>
+  <!-- <img src="{{ site.github.url }}/images/oxford_radcam.jpg" alt="Mountain View" style="width:30em;height:228px;"> -->
+  <img src="{{ site.github.url }}/images/oxford_radcam.jpg" alt="Mountain View">
+</center>
+
+<h4>Welcome to my website</h4>
+I intend to put up my academic work and any teaching materials. Feel free to <a href="{{ site.github.url }}/menu/contact"}}>contact</a> me if you have any questions. For more information about me please refer to my <a href="{{ site.github.url }}/menu/about"}}>About</a> page.
+
+<!-- <h4>Recent posts:</h4> -->
+
+
+<!-- {% for post in paginator.posts %}
+<div class="posts">
+  <h1>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h1>
+  {% if post.image.teaser %}
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
+  {% endif %}
+  <p>
+    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+</div>
+{% endfor %} -->
+
+<!-- Pagination links -->
+<!-- <div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
+  {% else %}
+    <span class="pagination-button">Older</span>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
+    {% else %}
+      <span class="pagination-button">Newer</span>
+  {% endif %}
+
+</div> -->

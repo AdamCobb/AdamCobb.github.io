@@ -1,4 +1,34 @@
-name: Adam Cobb
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-  
+# Site Settings
+title:               Adam Cobb
+tagline:             PhD Student in Machine Learning
+description:
+baseurl:            #"/Lagrange"
+url:                #"https://lenpaul.github.io"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Adam Cobb"
+  email:             "acobb@robots.ox.ac.uk"
+  twitter:           #"paululele"
+  instagram:         #"paululele"
+  github:            "AdamCobb"
+  facebook:          #"Le.Paul.94"
+  linkedin:          #"lenpaul"
+navigation:
+- title: About
+  url: /about
+# - title: Writing
+#   url: /writing
+- title: Contact
+  url: /contact
+- title: Academic Work
+  url: /academic
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
