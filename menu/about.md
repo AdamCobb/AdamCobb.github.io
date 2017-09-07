@@ -4,7 +4,7 @@ title: About
 ---
 ***
 <center>
-	<img src="{{ site.github.url }}/images/adam_china.jpg" alt="Mountain View" style="width:10em;">
+	<img src="{{ site.github.url }}/images/adam_china.jpg" alt="Adam" style="width:10em;">
 </center>
 
 I am a PhD student in Machine Learning at the University of Oxford, supervised by Prof. Stephen Roberts and Prof. Andrew Markham.
