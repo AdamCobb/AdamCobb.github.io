@@ -81,7 +81,7 @@ Overall I would like to thank all the FDL team for a great summer and the opport
 			</center>
 		</sub>
 	<sub>
-		Left: [Sean Marshall](http://astro.cornell.edu/sean-marshall.html)\\
+		Left: [Sean Marshall](http://astro.cornell.edu/~seanm/)\\
 		Top: [Grace Young](http://www.graceunderthesea.com)\\
 		Right: Me!\\
 		Bottom: [Agata Rożek](http://astro.kent.ac.uk/~arozek1/)
