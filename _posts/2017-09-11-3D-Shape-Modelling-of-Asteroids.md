@@ -69,7 +69,7 @@ radar observations.</sub>
 
 Our final addition to the asteroid shape modelling pipeline was the incorporation of a clustering algorithm to help scientists preprocess the large amount of delay-Doppler input data. This preprocessing algorithm resulted in reducing the task from one that takes a few days to one that takes a few hours. This was a clear example of how ML researchers can work together with domain-specific experts to speed up aspects of their day-to-day work. The application of ML tools enable the domain scientists to focus their efforts on more interesting areas of their field, without being held back by less meaningful tasks that can be readily automated. It highlights the healthy relationship that is possible when applying ML to new unexplored domains.
 
-Overall I would like to thank all the FDL team for a great summer and the opportunity to apply ML in the exciting area of Planetary Defence. I now have more experience applying ML to a variety of tasks and I look forward to taking that with me on returning back to my PhD. Special mention goes to my team members Agata Rożek, Grace Young, Sean Marshall and our great mentors Michael Busch, Chedy Raïssi and Yarin Gal. We further appreciate the fantastic hardware provided by IBM and NVIDIA.
+Overall I would like to thank all the FDL team for a great summer and the opportunity to apply ML in the exciting area of Planetary Defence. I now have more experience applying ML to a variety of tasks and I look forward to taking that with me on returning back to my PhD. Special mention goes to my team members Agata Rożek, Grace Young, Sean Marshall and our great mentors [Michael Busch](https://www.seti.org/users/michael-busch), [Chedy Raïssi](http://orpailleur.loria.fr/index.php/User:Chedy_Raïssi) and [Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/). We further appreciate the fantastic hardware provided by IBM and NVIDIA.
 
 <center>
 	<img src="{{ site.github.url }}/images/NASA3.png" alt="Team_fdl" style="width:20em;">
@@ -84,6 +84,6 @@ Overall I would like to thank all the FDL team for a great summer and the opport
 		Left: [Sean Marshall](http://astro.cornell.edu/sean-marshall.html)\\
 		Top: [Grace Young](http://www.graceunderthesea.com)\\
 		Right: Me!\\
-		Bottom: [Agata Rożec](http://astro.kent.ac.uk/~arozek1/)
+		Bottom: [Agata Rożek](http://astro.kent.ac.uk/~arozek1/)
 	</sub>
 </em>
