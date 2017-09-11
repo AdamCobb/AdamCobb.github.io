@@ -23,6 +23,8 @@ navigation:
   url: /contact
 - title: Academic Work
   url: /academic
+- title: Blog
+  url: /writing
 
 paginate:            5
 disqus:              #"your-disqus"
