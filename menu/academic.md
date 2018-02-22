@@ -7,6 +7,9 @@ title: Academic Work
 September 2016-->
 ## Papers:
 
+[Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calculus]({{ site.url }}/documents/Cobb2018_GP_vec_calc.pdf)<br />
+<em>February 2018. Under Submission. [Code](https://github.com/AdamCobb/GP-LAPLACE)</em>
+
 [Learning from lions: inferring the utility of agents from their trajectories]({{ site.url }}/documents/Cobb2017_Learning_from_lions.pdf)<br />
 <em>September 2017. Paper</em>
 
