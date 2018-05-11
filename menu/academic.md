@@ -7,6 +7,9 @@ title: Academic Work
 September 2016-->
 ## Papers:
 
+[Loss-Calibrated Approximate Inference in Bayesian Neural Networks]({{ site.url }}/documents/Cobb2018_LCBNN.pdf)<br />
+<em>May 2018. Code on its way</em>
+
 [Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calculus]({{ site.url }}/documents/Cobb2018_GP_vec_calc.pdf)<br />
 <em>Accepted KDD 2018. [Code](https://github.com/AdamCobb/GP-LAPLACE)</em>
 
@@ -28,7 +31,9 @@ September 2016-->
 
 Our final presentation on modelling the 3D shapes of asteroids during [NASA FDL 2017](http://www.frontierdevelopmentlab.org/#/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WE7kWHi1EQY?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
-
+<div style="position: relative; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe style="position: absolute; width: 100%; height: 100%;"
+        src="https://www.youtube.com/embed/WE7kWHi1EQY?rel=0" allowfullscreen frameborder="0">
+    </iframe>
+</div>
