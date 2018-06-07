@@ -8,7 +8,7 @@ September 2016-->
 ## Papers:
 
 [**Loss-Calibrated Approximate Inference in Bayesian Neural Networks**]({{ site.url }}/documents/Cobb2018_LCBNN.pdf)<br />
-<em>"Adam D. Cobb, [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)"<br>May 2018. Code on its way</em>
+<em>"Adam D. Cobb, [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)"<br>May 2018. [Code](https://github.com/AdamCobb/LCBNN)</em>
 
 [**Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calculus**]({{ site.url }}/documents/Cobb2018_GP_vec_calc.pdf)<br />
 <em>"Adam D. Cobb, [Richard Everett](http://richardeverett.io), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>Accepted KDD 2018. [Code](https://github.com/AdamCobb/GP-LAPLACE)</em>
