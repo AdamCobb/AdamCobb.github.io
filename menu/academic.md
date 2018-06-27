@@ -11,7 +11,7 @@ September 2016-->
 <em>"Adam D. Cobb, [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)"<br>May 2018. [Code](https://github.com/AdamCobb/LCBNN)</em>
 
 [**Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calculus**]({{ site.url }}/documents/Cobb2018_GP_vec_calc.pdf)<br />
-<em>"Adam D. Cobb, [Richard Everett](http://richardeverett.io), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>Accepted KDD 2018. [Code](https://github.com/AdamCobb/GP-LAPLACE) <A href="#additional-paper-material">Video</A></em>
+<em>"Adam D. Cobb, [Richard Everett](http://richardeverett.io), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>Accepted KDD 2018. [Code](https://github.com/AdamCobb/GP-LAPLACE) <A href="#additional-paper-materials">Video</A></em>
 
 [**Learning from lions: inferring the utility of agents from their trajectories**]({{ site.url }}/documents/Cobb2017_Learning_from_lions.pdf)<br />
 <em>"Adam D. Cobb, [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>September 2017. Paper</em>
