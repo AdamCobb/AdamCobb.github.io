@@ -7,8 +7,11 @@ title: Academic Work
 September 2016-->
 ## Papers ##
 
+[**Scalable Bounding of Predictive Uncertainty in Regression Problems with SLAC**]({{ site.url }}/documents/Blaas2018_Chapter_ScalableBoundingOfPredictiveUn.pdf)<br />
+<em>"Arno Blaas, Adam D. Cobb, [Jan-Peter Calliess](http://www.robots.ox.ac.uk/~jan/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>International Conference on Scalable Uncertainty Management, Sep 2018. </em>
+
 [**Loss-Calibrated Approximate Inference in Bayesian Neural Networks**]({{ site.url }}/documents/Cobb2018_LCBNN.pdf)<br />
-<em>"Adam D. Cobb, [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)"<br>May 2018. [Code](https://github.com/AdamCobb/LCBNN)</em>
+<em>"Adam D. Cobb, [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)"<br>Theory of deep learning workshop, ICML, May 2018. [Code](https://github.com/AdamCobb/LCBNN)</em>
 
 [**Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calculus**]({{ site.url }}/documents/Cobb2018_GP_vec_calc.pdf)<br />
 <em>"Adam D. Cobb, [Richard Everett](http://richardeverett.io), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Stephen J. Roberts](http://www.robots.ox.ac.uk/~sjrob/)"<br>Accepted KDD 2018. [Code](https://github.com/AdamCobb/GP-LAPLACE) <A href="#additional-paper-materials">Video</A></em>
