@@ -8,7 +8,7 @@ September 2016-->
 ## Papers ##
 
 [**An Ensemble of Bayesian Neural Networks for Exoplanetary Atmospheric Retrieval**](https://arxiv.org/pdf/1905.10659.pdf)<br />
-<em>"Adam D. Cobb, Michael D. Himes, Frank Soboczenski, Simone Zorzan, Molly D. O'Beirne, Atılım Güneş Baydin, Yarin Gal, Shawn D. Domagal-Goldman, Giada N. Arney, Daniel Angerhausen"<br>To appear in The Astronimical Journal.</em>
+<em>"Adam D. Cobb, Michael D. Himes, Frank Soboczenski, Simone Zorzan, Molly D. O'Beirne, Atılım Güneş Baydin, Yarin Gal, Shawn D. Domagal-Goldman, Giada N. Arney, Daniel Angerhausen"<br>To appear in The Astronomical Journal.</em>
 
 [**Optimising Worlds to Evaluate and Influence Reinforcement Learning Agents**]({{ site.url }}/documents/Everett_World_Agent.pdf)<br />
 <em>"Richard Everett, Adam Cobb, Andrew Markham, Stephen Roberts"<br>Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems.</em>
