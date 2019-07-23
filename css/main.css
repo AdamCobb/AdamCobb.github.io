@@ -449,3 +449,9 @@ pre {
 .fa-codepen:hover {
 	color: black;
 }
+
+table, th, td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  padding: 15px;
+}
