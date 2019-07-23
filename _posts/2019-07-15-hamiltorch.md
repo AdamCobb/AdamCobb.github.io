@@ -438,6 +438,11 @@ If you have any suggestions feel free to send me an email!
 
 *hamiltorch.sample*
 
+<style type="text/css">
+       table {border: 1px solid #ddd; padding: 15px;}
+       td {border: 1px solid #ddd}
+</style>
+
 <table style="width:100%">
   <thead class="thead-light">
     <tr>
