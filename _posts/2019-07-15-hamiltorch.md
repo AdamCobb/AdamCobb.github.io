@@ -64,7 +64,7 @@ def log_prob_func(params):
     stddev = torch.tensor([0.5,0.5,0.5])
     return torch.distributions.Normal(mean, stddev).log_prob(params).sum()
 ```
-This simply defines the log probability of a 3-dimensional Gaussian distribution, $$\mathcal{N}(\mathbf{x};\boldsymbol{\mu},\boldsymbol{\Sigma})$$, where $$ \boldsymbol{\mu} = [1,2,3] $$ and $$ \boldsymbol{\Sigma} = \mathrm{diag}([0.1,0.1,0.1]) $$. Therefore for a 3-dimensional vector, `log_prob_func` returns a single number corresponding to $$ p(\mathbf{x}\vert\boldsymbol{\mu},\boldsymbol{\Sigma}) $$.
+This simply defines the log probability of a 3-dimensional Gaussian distribution, $$\mathcal{N}(\mathbf{x};\boldsymbol{\mu},\boldsymbol{\Sigma})$$, where $$ \boldsymbol{\mu} = [1,2,3] $$ and $$ \boldsymbol{\Sigma} = \mathrm{diag}([0.5,0.5,0.5]) $$. Therefore for a 3-dimensional vector, `log_prob_func` returns a single number corresponding to $$ p(\mathbf{x}\vert\boldsymbol{\mu},\boldsymbol{\Sigma}) $$.
 
 Now that the `log_prob_func` has been defined above, we can start to use the core sampler in `hamiltorch`. Here, I introduce the `hamiltorch.sample` function, where details of the arguments and their definitions are listed <A href="#hamiltorch-function-descriptions">here</A>. We can now sample from the multivariate Gaussian using mostly the default sampler settings (Standard HMC). This is without spending too much time optimising the parameters such as the trajectory length (`num_steps_per_sample`) and the step size.
 
@@ -437,11 +437,6 @@ If you have any suggestions feel free to send me an email!
 ## hamiltorch function descriptions ##
 
 *hamiltorch.sample*
-
-<style type="text/css">
-       table {border: 1px solid #ddd; padding: 15px;}
-       td {border: 1px solid #ddd}
-</style>
 
 <table style="width:100%">
   <thead class="thead-light">
