@@ -19,10 +19,7 @@ image:
 
 ## Getting started
 
-First install the dependency:
-https://github.com/mariogeiger/hessian
-
-Then install this package <font color="red">(Link to hamiltorch coming soon)</font>:
+Link: https://github.com/AdamCobb/hamiltorch
 
 ```
 git clone https://github.com/AdamCobb/hamiltorch.git
