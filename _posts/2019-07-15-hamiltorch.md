@@ -19,7 +19,7 @@ image:
 
 ## Getting started
 
-Link: https://github.com/AdamCobb/hamiltorch
+Go to [hamiltorch](https://github.com/AdamCobb/hamiltorch)
 
 ```
 git clone https://github.com/AdamCobb/hamiltorch.git
