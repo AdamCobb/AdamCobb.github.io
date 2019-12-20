@@ -7,8 +7,17 @@ title: Academic Work
 September 2016-->
 ## Papers ##
 
+[**BayesOpt Adversarial Attack**](https://openreview.net/forum?id=Hkem-lrtvH)<br/>
+<em>"Binxin Ru, Adam D. Cobb, Arno Blaas, Yarin Gal"<br>ICLR 2020.</em>
+
+[**Semi-separable Hamiltonian Monte Carlo for inference in Bayesian neural networks**](http://bayesiandeeplearning.org/2019/papers/21.pdf)<br />
+<em>"Adam D. Cobb, Atılım Güneş Baydin, Ivan Kiskin, Andrew Markham, Stephen J. Roberts"<br>Fourth workshop on Bayesian Deep Learning (NeurIPS 2019), Vancouver, Canada.</em>
+
+[**Introducing an Explicit Symplectic Integration Scheme for Riemannian Manifold Hamiltonian Monte Carlo**](https://arxiv.org/pdf/1910.06243.pdf)<br />
+<em>"Adam D. Cobb, Atılım Güneş Baydin, Andrew Markham, Stephen J. Roberts"<br>Under review.</em>
+
 [**An Ensemble of Bayesian Neural Networks for Exoplanetary Atmospheric Retrieval**](https://arxiv.org/pdf/1905.10659.pdf)<br />
-<em>"Adam D. Cobb, Michael D. Himes, Frank Soboczenski, Simone Zorzan, Molly D. O'Beirne, Atılım Güneş Baydin, Yarin Gal, Shawn D. Domagal-Goldman, Giada N. Arney, Daniel Angerhausen"<br>To appear in The Astronomical Journal.</em>
+<em>"Adam D. Cobb, Michael D. Himes, Frank Soboczenski, Simone Zorzan, Molly D. O'Beirne, Atılım Güneş Baydin, Yarin Gal, Shawn D. Domagal-Goldman, Giada N. Arney, Daniel Angerhausen"<br>The Astronomical Journal, 2019.</em>
 
 [**Optimising Worlds to Evaluate and Influence Reinforcement Learning Agents**]({{ site.url }}/documents/Everett_World_Agent.pdf)<br />
 <em>"Richard Everett, Adam Cobb, Andrew Markham, Stephen Roberts"<br>Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems.</em>
