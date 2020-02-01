@@ -103,7 +103,7 @@ params_irmhmc = hamiltorch.sample(log_prob_func=log_prob, params_init=params_ini
     0d:00:00:29 | 0d:00:00:00 | #################### | 400/400 | 13.73       
     Acceptance Rate 1.00
 
-We can also repeat the above RMHMC scheme for **explicit** integration and set the `integrator=hamiltorch.Integrator.EXPLICIT`. For the differences between the integrators and the samplers, please refer to our paper <font color="red">(Link coming soon)</font>.
+We can also repeat the above RMHMC scheme for **explicit** integration and set the `integrator=hamiltorch.Integrator.EXPLICIT`. For the differences between the integrators and the samplers, please refer to our [paper](https://arxiv.org/pdf/1910.06243.pdf).
 
 We can then plot these 3D samples below.
 
@@ -239,7 +239,7 @@ Note that as the funnel distribution can be ill-defined in some parts of the spa
         Acceptance Rate 0.94
 
 
-#### Implicit RMHMC:
+#### Explicit RMHMC:
 
 ```python
 hamiltorch.set_random_seed(123)
