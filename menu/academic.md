@@ -5,6 +5,11 @@ title: Academic Work
 ***
 <!--![image-title-here]({{ site.url }}/images/Lion_withTag.jpg){:class="img-responsive"}
 September 2016-->
+
+## PhD Thesis ##
+
+[**The Practicalities of Scaling Bayesian Neural Networks to Real-World Applications**](https://ora.ox.ac.uk/objects/uuid:4b738b70-28bc-4545-86a6-6078861e7d13)<br />
+<em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
 ## Papers ##
 
 [**BayesOpt Adversarial Attack**](https://openreview.net/forum?id=Hkem-lrtvH)<br/>

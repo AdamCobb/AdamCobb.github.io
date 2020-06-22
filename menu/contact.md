@@ -3,12 +3,11 @@ layout: page
 title: Contact
 ---
 ***
-### Adresss:
+<!-- ### Adresss:
 Worcester College,
 Walton Street,
 Oxford,
-OX1 2HB
+OX1 2HB -->
 
 ### Email:
-<a href="mailto:acobb@robots.ox.ac.uk">acobb@robots.ox.ac.uk</a>
-
+<a href="mailto:cobb.derek.adam@gmail.com">cobb.derek.adam@gmail.com</a>

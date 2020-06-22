@@ -1,6 +1,6 @@
 # Site Settings
 title:               Adam Cobb
-tagline:             PhD Student in Machine Learning
+tagline:             Postdoc in Machine Learning
 description:
 baseurl:            #"/Lagrange"
 url:                #"https://lenpaul.github.io"
@@ -8,7 +8,7 @@ github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Adam Cobb"
-  email:             "acobb@robots.ox.ac.uk"
+  email:             "cobb.derek.adam@gmail.com"
   twitter:           #"paululele"
   instagram:         #"paululele"
   github:            "AdamCobb"
