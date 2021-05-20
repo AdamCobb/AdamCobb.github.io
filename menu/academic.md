@@ -12,6 +12,9 @@ September 2016-->
 <em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
 ## Papers ##
 
+[**Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks with Symmetric Splitting**](https://arxiv.org/pdf/2010.06772.pdf)<br/>
+<em>"Adam D. Cobb, Brian Jalaian"<br>UAI 2021.</em>
+
 [**BayesOpt Adversarial Attack**](https://openreview.net/forum?id=Hkem-lrtvH)<br/>
 <em>"Binxin Ru, Adam D. Cobb, Arno Blaas, Yarin Gal"<br>ICLR 2020.</em>
 
