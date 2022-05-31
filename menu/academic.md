@@ -10,7 +10,34 @@ September 2016-->
 
 [**The Practicalities of Scaling Bayesian Neural Networks to Real-World Applications**](https://ora.ox.ac.uk/objects/uuid:4b738b70-28bc-4545-86a6-6078861e7d13)<br />
 <em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
+
+## Book Chapters
+
+[**Toward Safe Decision-Making via Uncertainty Quantification in Machine Learning**](https://link.springer.com/chapter/10.1007/978-3-030-77283-3_19)<br/>
+<em>"Adam D. Cobb, Brian Jalaian, Nathaniel D. Bastian, Stephen Russell"<br>Systems Engineering and Artificial Intelligence 2021.</em>
+
 ## Papers ##
+
+[**Principal Component Flows**](https://arxiv.org/abs/2202.07037)<br/>
+<em>"Edmond Cunningham, Adam D. Cobb, Susmit Jha"<br>ICML 2022.</em> <br/>
+
+[**On Diverse System-Level Design Using Manifold Learning and Partial Simulated Annealing**](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/58C33505893DE15D2D6589E98C5F55BA/S2732527X22001560a.pdf/div-class-title-on-diverse-system-level-design-using-manifold-learning-and-partial-simulated-annealing-div.pdf)<br/>
+<em>"Adam D. Cobb, Anirban Roy, Daniel Elenius, Kaushik Koneripalli, Susmit Jha"<br>Proceedings of the Design Society (DESIGN) 2022.</em> <br/> **Paper was in top 10 % of accepted conference papers.**
+
+[**URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods**](https://proceedings.mlsys.org/paper/2022/file/3ef815416f775098fe977004015c6193-Paper.pdf)<br/>
+<em>"Meet Vadera, Jinyang Li, Adam D. Cobb, Brian Jalaian, Tarek Abdelzaher, Benjamin Marlin"<br>Proceedings of Machine Learning and Systems (MLSys) 2022.</em>
+
+[**Can Sequential Bayesian Inference Solve Continual Learning?**](https://openreview.net/pdf?id=2Ann7eaLBEv)<br/>
+<em>"Samuel Kessler, Adam D. Cobb, Stefan Zohren, Stephen J. Roberts"<br>Fourth Symposium on Advances in Approximate Bayesian Inference 2022.</em>
+
+[**Robust decision-making in the internet of battlefield things using Bayesian neural networks**](https://dl.acm.org/doi/abs/10.5555/3522802.3522943)<br/>
+<em>"Adam D. Cobb, Brian A. Jalaian, Nathaniel D. Bastian, Stephen Russell"<br>Winter Simulation Conference (WSC) 2021.</em>
+
+[**HumBugDB: A Large-scale Acoustic Mosquito Dataset**](https://ieeexplore.ieee.org/abstract/document/9504792)<br/>
+<em>"Ivan Kiskin, Marianne Sinka, Adam D Cobb, Waqas Rafique, Lawrence Wang, Davide Zilli, Benjamin Gutteridge, Rinita Dam, Theodoros Marinos, Yunpeng Li, Dickson Msaky, Emmanuel Kaindoa, Gerard Killeen, Eva Herreros-Moya, Kathy J Willis, Stephen J Roberts"<br>Neural Information Processing Systems Track on Datasets and Benchmarks 2021.</em>
+
+[**Improving differential evolution through Bayesian hyperparameter optimization**](https://ieeexplore.ieee.org/abstract/document/9504792)<br/>
+<em>"Subhodip Biswas, Debanjan Saha, Shuvodeep De, Adam D Cobb, Swagatam Das, Brian Jalaian"<br>IEEE Congress on Evolutionary Computation (CEC) 2021.</em>
 
 [**Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks with Symmetric Splitting**](https://arxiv.org/pdf/2010.06772.pdf)<br/>
 <em>"Adam D. Cobb, Brian Jalaian"<br>UAI 2021.</em>
