@@ -11,12 +11,10 @@ September 2016-->
 [**The Practicalities of Scaling Bayesian Neural Networks to Real-World Applications**](https://ora.ox.ac.uk/objects/uuid:4b738b70-28bc-4545-86a6-6078861e7d13)<br />
 <em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
 
-## Book Chapters
-
-[**Toward Safe Decision-Making via Uncertainty Quantification in Machine Learning**](https://link.springer.com/chapter/10.1007/978-3-030-77283-3_19)<br/>
-<em>"Adam D. Cobb, Brian Jalaian, Nathaniel D. Bastian, Stephen Russell"<br>Systems Engineering and Artificial Intelligence 2021.</em>
-
 ## Papers ##
+
+[**AircraftVerse: A Large-Scale Multimodal Dataset of Aerial Vehicle Designs**](https://arxiv.org/abs/2306.05562)<br/>
+<em>"Adam D. Cobb, Anirban Roy, Daniel Elenius, F. Michael Heim, Brian Swenson, Sydney Whittington, James D. Walker, Theodore Bapty, Joseph Hite, Karthik Ramani, Christopher McComb, Susmit Jha"<br>NeurIPS 2023.</em> <br/>
 
 [**Principal Component Flows**](https://arxiv.org/abs/2202.07037)<br/>
 <em>"Edmond Cunningham, Adam D. Cobb, Susmit Jha"<br>ICML 2022.</em> <br/>
@@ -82,9 +80,13 @@ September 2016-->
 [**Active sampling to increase the battery life of mosquito-detecting sensor networks**]({{ site.url }}/documents/Cobb2016_mosq.pdf)<br />
 <em>"Adam D. Cobb, Stephen J. Roberts"<br>June 2016. CDT in AIMS mini-project</em>
 
-
 [**Exoplanet Detection in Large Astronomical Data Sets**]({{ site.url }}/documents/Cobb2015_exoplanet.pdf)<br />
 <em>"Adam D. Cobb, Stephen J. Roberts"<br>June 2015. Master's Thesis</em>
+
+## Book Chapters
+
+[**Toward Safe Decision-Making via Uncertainty Quantification in Machine Learning**](https://link.springer.com/chapter/10.1007/978-3-030-77283-3_19)<br/>
+<em>"Adam D. Cobb, Brian Jalaian, Nathaniel D. Bastian, Stephen Russell"<br>Systems Engineering and Artificial Intelligence 2021.</em>
 
 ## Presentations ##
 
