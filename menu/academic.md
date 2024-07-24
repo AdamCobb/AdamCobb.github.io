@@ -13,6 +13,9 @@ September 2016-->
 
 ## Papers ##
 
+[**Direct Amortized Likelihood Ratio Estimation**](https://ojs.aaai.org/index.php/AAAI/article/view/30018/31790)<br/>
+<em>"Adam D. Cobb,  Brian Matejek, Daniel Elenius, Anirban Roy, Susmit Jha"<br>AAAI 2024.</em> <br/>
+
 [**AircraftVerse: A Large-Scale Multimodal Dataset of Aerial Vehicle Designs**](https://arxiv.org/abs/2306.05562)<br/>
 <em>"Adam D. Cobb, Anirban Roy, Daniel Elenius, F. Michael Heim, Brian Swenson, Sydney Whittington, James D. Walker, Theodore Bapty, Joseph Hite, Karthik Ramani, Christopher McComb, Susmit Jha"<br>NeurIPS 2023.</em> <br/>
 

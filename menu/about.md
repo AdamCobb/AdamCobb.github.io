@@ -9,7 +9,7 @@ title: About
 
 <!-- <img src="{{ site.github.url }}/images/adam_china.jpg" alt="Mountain View" style="float:right;width:10em;"> -->
 
-I am currently an Advanced Computer Scientist at SRI International focusing on uncertainty quantification in machine learning. I am based in Washington, DC.
+I am currently a Senior Computer Scientist at SRI International focusing on uncertainty quantification in machine learning. I am based in Washington, DC.
 
 ### Background
 
@@ -25,7 +25,7 @@ My undergraduate master's was in Engineering Science at the University of Oxford
 * Gaussian processes
 * Variational inference
 * Markov chain Monte Carlo
-* Deep Learning
+* Generative AI
 
 ### Interests
 
