@@ -30,3 +30,7 @@ layout: default
 {% if site.disqus %}
   {% include disqus.html %}
 {% endif %}
+
+{% if page.thumbnail_preview %}
+<script src="/assets/js/thumbnail-preview.js"></script>
+{% endif %}

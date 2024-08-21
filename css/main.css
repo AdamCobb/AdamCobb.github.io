@@ -106,7 +106,7 @@ blockquote p {
 
 @media (max-width: 1366px) {
   .container {
-    width: 45vw;
+    width: 60vw;
   }
 }
 
@@ -311,6 +311,26 @@ pre {
   word-wrap: normal;
 }
 
+.output-box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f9f9f9;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  text-align: left;
+  width: 100%;        /* Makes the box responsive to the container width */
+  max-width: 100%;    /* Ensures the box doesn't exceed the width of its container */
+  overflow-x: auto;   /* Adds a scrollbar if content is wider than the box */
+  box-sizing: border-box; /* Includes padding and border in the element's total width */
+}
+
+@media (max-width: 600px) {
+  .output-box {
+      padding: 5px;  /* Smaller padding on smaller screens */
+      font-size: 10px;
+  }
+}
+
 
 /*
   Social media icons
@@ -455,3 +475,4 @@ table, th, td {
   border-collapse: collapse;
   padding: 15px;
 }
+
