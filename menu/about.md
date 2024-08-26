@@ -4,7 +4,7 @@ title: About
 ---
 ***
 <center>
-	<img src="{{ site.github.url }}/images/adam_china.jpg" alt="Adam" style="width:10em;">
+	<img src="{{ site.github.url }}/images/adam_DC.jpg" alt="Adam" style="width:10em;">
 </center>
 
 <!-- <img src="{{ site.github.url }}/images/adam_china.jpg" alt="Mountain View" style="float:right;width:10em;"> -->
