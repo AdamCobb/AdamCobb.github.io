@@ -9,9 +9,9 @@ title: About
 
 <!-- <img src="{{ site.github.url }}/images/adam_china.jpg" alt="Mountain View" style="float:right;width:10em;"> -->
 
-I am currently a Senior Computer Scientist at SRI International focusing on uncertainty quantification in machine learning. I am based in Washington, DC.
+I am a Senior Computer Scientist at SRI International focusing on uncertainty quantification in machine learning. I am based in Washington, DC. I have led multiple projects ranging from <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8b94879b177d9780c17f5a78f62a6a8a-Abstract-Datasets_and_Benchmarks.html">generative AI for Cyber-Physical System design</a> to the assurance of large language models using uncertainty quantification. My work spans multiple application domains including Astrophysics, Healthcare, and Engineering Design.
 
-### Background
+### Education
 
 I completed my PhD at the University of Oxford, under the supervision of Prof. Stephen Roberts and Prof. Andrew Markham. The PhD focused on uncertainty quantification in machine learning. Throughout my PhD I studied a wide variety of topics, broadly falling under the category of Bayesian inference. After completing my PhD, I moved to Washington DC and worked for a year as an ORAU Postdoctoral Research Fellow at ARL.
 
