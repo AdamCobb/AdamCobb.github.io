@@ -6,12 +6,14 @@ title: Academic Work
 <!--![image-title-here]({{ site.url }}/images/Lion_withTag.jpg){:class="img-responsive"}
 September 2016-->
 
-## PhD Thesis ##
-
-[**The Practicalities of Scaling Bayesian Neural Networks to Real-World Applications**](https://ora.ox.ac.uk/objects/uuid:4b738b70-28bc-4545-86a6-6078861e7d13)<br />
-<em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
-
 ## Papers ##
+(See complete list on my [Google Scholar](https://scholar.google.com/citations?user=XW1fyPcAAAAJ&hl=en) page)
+
+[**SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding**](https://neurips.cc/virtual/2025/poster/117906)<br/>
+<em>"Malyaban Bal, Brian Matejek, Susmit Jha, Adam D. Cobb"<br>NeurIPS 2025.</em> <br/>
+
+[**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**](https://arxiv.org/pdf/2506.21408)<br/>
+<em>"Colin Samplawski, Adam D. Cobb, Manoj Acharya, Ramneet Kaur, Susmit Jha"<br>UAI 2025.</em> <br/>
 
 [**Direct Amortized Likelihood Ratio Estimation**](https://ojs.aaai.org/index.php/AAAI/article/view/30018/31790)<br/>
 <em>"Adam D. Cobb,  Brian Matejek, Daniel Elenius, Anirban Roy, Susmit Jha"<br>AAAI 2024.</em> <br/>
@@ -85,6 +87,11 @@ September 2016-->
 
 [**Exoplanet Detection in Large Astronomical Data Sets**]({{ site.url }}/documents/Cobb2015_exoplanet.pdf)<br />
 <em>"Adam D. Cobb, Stephen J. Roberts"<br>June 2015. Master's Thesis</em>
+
+## PhD Thesis ##
+
+[**The Practicalities of Scaling Bayesian Neural Networks to Real-World Applications**](https://ora.ox.ac.uk/objects/uuid:4b738b70-28bc-4545-86a6-6078861e7d13)<br />
+<em>"Adam D. Cobb"<br>University of Oxford 2020.</em>
 
 ## Book Chapters
 
