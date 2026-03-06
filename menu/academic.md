@@ -9,6 +9,9 @@ September 2016-->
 ## Papers ##
 (See complete list on my [Google Scholar](https://scholar.google.com/citations?user=XW1fyPcAAAAJ&hl=en) page)
 
+[**"Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design**]({{ site.url }}/documents/ghiglino_diffusion_2026.pdf)<br />
+<em>"Aurelien Ghiglino, Daniel Elenius, Brian Matejek, Anirban Roy, Susmit Jha, Ramneet Kaur, Manoj Acharya, Colin Samplawski, Juan J. Alonso, Adam D. Cobb"<br>March 2026. In Submission</em>
+
 [**SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding**](https://neurips.cc/virtual/2025/poster/117906)<br/>
 <em>"Malyaban Bal, Brian Matejek, Susmit Jha, Adam D. Cobb"<br>NeurIPS 2025.</em> <br/>
 
