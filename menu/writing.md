@@ -10,7 +10,12 @@ title: Blog
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
   {% if post.image.teaser %}
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <img
+        src="{{ site.github.url }}/images/{{ post.image.teaser }}"
+        {% if post.image.max_height %}style="max-height: {{ post.image.max_height }}; width: auto; display: block; margin: 0 auto;"{% endif %}
+      >
+    </a>
   {% endif %}
   <p>
     {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>

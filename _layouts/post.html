@@ -7,7 +7,10 @@ layout: default
 </h1>
 
 {% if page.image.feature %}
-  <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
+  <img
+    src="{{ site.github.url }}/images/{{ page.image.feature }}"
+    {% if page.image.max_height %}style="max-height: {{ page.image.max_height }}; width: auto; display: block; margin: 0 auto;"{% endif %}
+  >
 {% endif %}
 
 {{ content }}
