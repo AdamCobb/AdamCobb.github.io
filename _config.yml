@@ -1,6 +1,6 @@
 # Site Settings
 title:               Adam Cobb
-tagline:             Computer Scientist
+tagline:             AI Scientist
 description:
 baseurl:            #"/Lagrange"
 url:                #"https://lenpaul.github.io"
@@ -8,7 +8,6 @@ github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Adam Cobb"
-  email:             "cobb.derek.adam@gmail.com"
   twitter:           #"paululele"
   instagram:         #"paululele"
   github:            "AdamCobb"
@@ -19,8 +18,6 @@ navigation:
   url: /about
 # - title: Writing
 #   url: /writing
-- title: Contact
-  url: /contact
 - title: Academic Work
   url: /academic
 - title: Blog
